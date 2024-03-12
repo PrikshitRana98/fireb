@@ -1,0 +1,10 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    // ... other options
+    "typeRoots": [
+      "./node_modules/@types",
+      // Other type root paths if applicable
+    ]
+  }
+}

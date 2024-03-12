@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477769429703",
+    "project_id": "fir-n-d7d48",
+    "storage_bucket": "fir-n-d7d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477769429703:android:c28f32be900a9eb102c4e2",
+        "android_client_info": {
+          "package_name": "com.firebnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxU0idFN9irGR6t7eBUzEU-83UwITvqME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
